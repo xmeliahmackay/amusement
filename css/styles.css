@@ -1,0 +1,28 @@
+.top {
+  text-align: center;
+  color: rgb(14, 110, 78);
+}
+.short, .tall {
+  display: none;
+  text-align: center;
+}
+
+.pics {
+  width: 100%;
+}
+
+.picss {
+  width: 100%;
+}
+
+.coasters {
+  background-color: rgb(219, 243, 235);
+}
+
+.descript{
+  display: none;
+  background-color: rgb(77, 168, 138);
+}
+body {
+  background-color: rgb(143, 212, 189);
+}
